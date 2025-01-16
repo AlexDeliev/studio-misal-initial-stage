@@ -1,0 +1,11 @@
+# Ignore png files
+StudioMisalFav.png
+StudioMisalFinal.png
+StudioMisalFinal.svg
+StudioMisalFinalBlack.png
+
+# Ignore video files
+StudioMisalIntro.mp4
+
+# Ignore Adobe Illustrator file
+StudioMisalSpiral.ai
